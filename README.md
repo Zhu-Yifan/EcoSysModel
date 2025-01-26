@@ -1,6 +1,6 @@
 # EcoSysModel
 
-#Introduction
+### Introduction
 
 This repository contains my work from the course < Mathematical Modeling of Marine Ecosystems> by Prof.Eileen Hoffman
 
